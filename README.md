@@ -1,3 +1,7 @@
+## 使用したライブラリ
+npm install -D react-image-resizer
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
